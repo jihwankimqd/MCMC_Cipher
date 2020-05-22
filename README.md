@@ -1,5 +1,7 @@
 Monte Carlo Methods to Decrypt Substitution Ciphers
 
+![Alt Text](https://github.com/jihwankimqd/MCMC_Cipher/blob/master/mcmc_run_code.gif?raw=true)
+
 #Abstract
 
 This project will investigate the use of Markov Chain Monte Carlo (MCMC) methods to tackle random substitution ciphers. Python and its relevant libraries will be used to implement the algorithms and visualize the results.
