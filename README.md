@@ -1,3 +1,5 @@
+To run the code, download the repo and simply run 'MCMC_Cipher_TrigramIncluded.py' or 'MCMC_Cipher_NoTrigram.py'.
+
 Monte Carlo Methods to Decrypt Substitution Ciphers
 
 ![Alt Text](https://github.com/jihwankimqd/MCMC_Cipher/blob/master/mcmc_run_code.gif?raw=true)
