@@ -6,7 +6,7 @@ Monte Carlo Methods to Decrypt Substitution Ciphers
 
 #Abstract
 
-This project will investigate the use of Markov Chain Monte Carlo (MCMC) methods to tackle random substitution ciphers. Python and its relevant libraries will be used to implement the algorithms and visualize the results.
+This project will investigate the use of Markov Chain Monte Carlo (MCMC) methods to tackle random substitution ciphers. N-grams from text were collected and analyzed using the Markov Chain Monte Carlo algorithm implemented from scratch. 
 
 #Motivation
 
